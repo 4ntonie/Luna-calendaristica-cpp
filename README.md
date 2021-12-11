@@ -1,2 +1,2 @@
 # probleme
-Diverse probleme de pe pbinfoo
+Diverse probleme de pe pbinfo
